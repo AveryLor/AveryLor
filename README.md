@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I am Avery Lor!👋
+
+I am currently a high school student based in Ottawa, Ontario. 
+
+Linked In: https://www.linkedin.com/in/avery-lor-811179246/
 
 <!--
 **AveryLor/AveryLor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
