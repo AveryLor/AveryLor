@@ -1,6 +1,6 @@
 ### Hi there I am Avery Lor!👋
 
-I am currently a high school student based in Ottawa, Ontario. Incoming computer engineering student at the University of Toronto. 
+I am a freshman computer engineering student at the University of Toronto. 
 
 Linked In: https://www.linkedin.com/in/avery-lor-811179246/
 
