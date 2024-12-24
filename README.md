@@ -10,8 +10,8 @@ Portfolio Website: https://averylor.me/
 ## Github Stats
 
 <div align="center">
-    <img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=AveryLor&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img width="40%" height="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=AveryLor&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
+    <img width="40%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <!-- Tech Stack -->
