@@ -18,6 +18,7 @@ Portfolio Website: https://averylor.me/
   </a>
 </div>
 
+
 ![snake gif](https://github.com/AveryLor/AveryLor/blob/output/github-snake-dark.svg)
 
 
