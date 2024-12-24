@@ -1,4 +1,4 @@
-### Hi there I am Avery Lor!👋
+### Hi there I am Avery Lor! 👋
 
 I am a freshman computer engineering student at the University of Toronto. 
 
