@@ -3,6 +3,7 @@
 I am a freshman computer engineering student at the University of Toronto. 
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
+
 Portfolio Website: https://averylor.me/
 
 ![snake gif](https://github.com/AveryLor/AveryLor/blob/output/github-snake-dark.svg)
