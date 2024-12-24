@@ -4,6 +4,9 @@ I am a freshman computer engineering student at the University of Toronto.
 
 Linked In: https://www.linkedin.com/in/avery-lor-811179246/
 
+![snake gif](https://github.com/AveryLor/AveryLor/blob/output/github-snake-dark.svg)
+
+
 <!--
 **AveryLor/AveryLor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
