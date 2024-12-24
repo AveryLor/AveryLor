@@ -11,9 +11,6 @@ Portfolio Website: https://averylor.me/
 
 <div align="center">
   <a href="https://github.com/AveryLor">
-    <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=AveryLor&theme=radical&hide_rank=true&title_color=ff3068">
-  </a>
-  <a href="https://github.com/AveryLor">
     <img style="width: 100%; height: 100%;" src="http://github-readme-streak-stats.herokuapp.com/?user=AveryLor&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
   </a>
 </div>
