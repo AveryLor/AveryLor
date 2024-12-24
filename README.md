@@ -9,7 +9,7 @@ Portfolio Website: https://averylor.me/
 
 ## Github Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="width: 45%; max-width: 300px;">
     <a href="https://github.com/AveryLor">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AveryLor&theme=radical&title_color=ff3068">
