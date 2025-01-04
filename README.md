@@ -11,11 +11,11 @@ Portfolio Website: https://averylor.me/
 
 <div align="center">
     <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Jantomz&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"        
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AveryLor&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"        
         alt="GitHub Streak Stats for AveryLor" 
     />
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jantomz&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryLor&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
         alt="Most Used Languages by AveryLor" 
     />
 </div>
@@ -30,7 +30,7 @@ Portfolio Website: https://averylor.me/
 
 </div>
 
-![snake gif](https://github.com/Jantomz/Jantomz/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AveryLor/AveryLor/blob/output/github-snake-dark.svg)
 
 
 <!--
