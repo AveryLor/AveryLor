@@ -9,13 +9,21 @@ Portfolio Website: https://averylor.me/
 
 ## Github Stats
 
-<div align="center">
+<div style="text-align: center;">
+    <!-- GitHub Streak Stats -->
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AveryLor&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" 
+        alt="GitHub Streak Stats for AveryLor" 
+        style="margin-bottom: 20px;"
+    />
     
+    <!-- Most Used Languages -->
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryLor&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
         alt="Most Used Languages by AveryLor" 
     />
 </div>
+
 
 
 
