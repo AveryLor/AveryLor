@@ -11,7 +11,7 @@ Portfolio Website: https://averylor.me/
 
 <div style="text-align: center;">
     <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AveryLor&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Jantomz&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" 
         alt="GitHub Streak Stats for AveryLor" 
     />
     <img 
