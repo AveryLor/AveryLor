@@ -2,6 +2,8 @@
 
 I am a freshman computer engineering student at the University of Toronto. 
 
+I am currently a Full Stack Developer at Project Tech Careers (PTC)!
+
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
 Portfolio Website: https://averylor.me/
