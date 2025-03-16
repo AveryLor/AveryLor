@@ -11,7 +11,7 @@ Portfolio Website: https://averylor.me/
 
 ## Github Stats
 
-![Views Badge](https://komarev.com/ghpvc/?username=martin226&label=Profile%20views&color=0e75b6&style=flat) 
+![Views Badge](https://komarev.com/ghpvc/?username=AveryLor226&label=Profile%20views&color=0e75b6&style=flat) 
 
 <div style="text-align: center;">
     <img 
