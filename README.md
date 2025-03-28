@@ -2,9 +2,9 @@
 
 I am a freshman computer engineering student at the University of Toronto. 
 
-I am currently a Full Stack Developer at Project Tech Careers (PTC). 
+I am currently a Full Stack Developer at Project Tech Careers (PTC)!
 
-I am an incoming intern @Ciena for this summer!
+Incoming Photonics Software intern @ [Ciena](https://www.ciena.com/) (summer 2025)
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
