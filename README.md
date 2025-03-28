@@ -4,7 +4,7 @@ I am a freshman computer engineering student at the University of Toronto.
 
 I am currently a Full Stack Developer at Project Tech Careers (PTC)!
 
-Incoming Photonics Software intern @ [Ciena](https://www.ciena.com/) (summer 2025)
+Incoming Photonics Project Management intern @ [Ciena](https://www.ciena.com/) (summer 2025)
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
