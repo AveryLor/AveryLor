@@ -13,7 +13,6 @@ Portfolio Website: https://averylor.me/
 
 ## Github Stats
 
-![Hit Count](https://hits.dwyl.com/your-username/your-username.svg?style=flat-square)
 ![Views Badge](https://komarev.com/ghpvc/?username=AveryLor226&label=Profile%20views&color=0e75b6&style=flat) 
 
 <div style="text-align: center;">
