@@ -60,7 +60,6 @@ Portfolio Website: https://averylor.me/
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF8800?style=for-the-badge&logo=platformio&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-FA9E2C?style=for-the-badge&logo=freertos&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-EF4040?style=for-the-badge&logo=verilog&logoColor=white)
 
 
