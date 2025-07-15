@@ -58,9 +58,6 @@ Portfolio Website: https://averylor.me/
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF8800?style=for-the-badge&logo=platformio&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-FA9E2C?style=for-the-badge&logo=freertos&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-EF4040?style=for-the-badge&logo=verilog&logoColor=white)
 
 
 ### Software Development Tools
