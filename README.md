@@ -56,8 +56,6 @@ Portfolio Website: https://averylor.me/
 ### Hardware/low level
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF8800?style=for-the-badge&logo=platformio&logoColor=white)
 
 
 ### Software Development Tools
