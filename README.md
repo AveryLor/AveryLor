@@ -67,6 +67,7 @@ Portfolio Website: https://averylor.me/
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=atlassian-confluence&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![snake gif](https://github.com/AveryLor/AveryLor/blob/output/github-snake-dark.svg)
 
