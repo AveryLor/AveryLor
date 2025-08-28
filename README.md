@@ -8,7 +8,7 @@ In my free time I love rock climbing, golfing and karting
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
-Portfolio Website: 
+Portfolio Website: https://averylor.github.io/Portfolio/
 
 ## Github Stats
 
