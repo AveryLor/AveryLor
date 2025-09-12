@@ -2,7 +2,7 @@
 
 I am a freshman computer engineering student at the University of Toronto. 
 
-I love all things software, always done to learn something new or cool :)
+I love all things software, always trying to learn something new or cool :)
 
 In my free time I love rock climbing, golfing and karting 
 
