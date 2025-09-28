@@ -58,7 +58,7 @@ Portfolio Website: https://averylor.github.io/Portfolio/
 ### Hardware/low level
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-#e490f5?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-#E490f5?style=for-the-badge&logoColor=white)
 
 ### Software Development Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
