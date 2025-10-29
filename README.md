@@ -4,7 +4,9 @@ I am a freshman computer engineering student at the University of Toronto.
 
 I love all things software, always trying to learn something new or cool :)
 
-In my rare free time I love rock climbing, golfing and karting 
+My current main interests are system software (mostly distributed systems, system level optimizations) and autonomous vehicles. 
+
+In my free time I love rock climbing, grinding Stardew Valley's economic system and go karting 
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
