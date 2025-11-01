@@ -73,9 +73,6 @@ Portfolio Website: https://averylor.github.io/Portfolio/
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![snake gif](https://github.com/AveryLor/AveryLor/blob/output/github-snake-dark.svg)
-
-
 <!--
 **AveryLor/AveryLor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
