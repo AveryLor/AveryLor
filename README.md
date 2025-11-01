@@ -10,8 +10,6 @@ In my free time I love rock climbing, grinding Stardew Valley's economic system 
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
-Portfolio Website: https://averylor.github.io/Portfolio/
-
 ## Github Stats
 
 ![Views Badge](https://komarev.com/ghpvc/?username=AveryLor226&label=Profile%20views&color=0e75b6&style=flat) 
