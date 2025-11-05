@@ -1,6 +1,6 @@
 ### Hi there I am Avery Lor! 👋
 
-I am a freshman computer engineering student at the University of Toronto. 
+I am a sophmore computer engineering student at the University of Toronto. 
 
 I love all things software, always trying to learn something new or cool :)
 
