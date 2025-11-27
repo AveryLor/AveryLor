@@ -53,6 +53,7 @@ LinkedIn: https://www.linkedin.com/in/averywlor/
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-e490f5?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-582531?style=for-the-badge&logoColor=white)
 
 ### Software Development Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
