@@ -13,7 +13,7 @@ What I'm building right now:
 - My own basic OS in rust
 - Learning about CUDA programming and distributed system / compute design 
 
-I am also a SWE intern on the @RBC Amplify team for this summer. 
+I am also a SWE intern on the RBC Amplify team for this summer. 
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
