@@ -11,9 +11,14 @@ In my free time I love rock climbing, grinding Stardew Valley's economic system 
 What I'm building right now: 
 - A 32 bit softcore RISC-V processor with pipelining, jump instructions and a call stack
 - My own basic OS in rust
-- Learning about CUDA programming and distributed system / compute design 
+- Custom compiler 
 
-I am also a SWE intern on the RBC Amplify team for this summer. 
+I'm also trying to learn more about: 
+- Electronic design
+- EMC testing
+- RF design and wireless telemtry 
+
+Currently I am a SWE intern on the RBC Amplify team for this summer. 
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
