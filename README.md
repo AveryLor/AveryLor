@@ -6,6 +6,8 @@ I love all things software, always trying to learn something new or cool :)
 
 My current main interests are system software (distributed systems, and lower level embedded systems, system level optimizations and autonomous vehicles). 
 
+I like bouldering and grinding Stardew valley when I have free time. 
+
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
 ## Github Stats
