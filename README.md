@@ -4,21 +4,7 @@ I am a sophmore computer engineering student at the University of Toronto.
 
 I love all things software, always trying to learn something new or cool :)
 
-My current main interests are system software (distributed systems, and lowwer level embedded systems, system level optimizations and autonomous vehicles). 
-
-In my free time I love rock climbing, grinding Stardew Valley's economic system and go karting 
-
-What I'm building right now: 
-- A 32 bit softcore RISC-V processor with pipelining, jump instructions and a call stack
-- My own basic OS in rust
-- Custom compiler 
-
-I'm also trying to learn more about: 
-- Electronic design
-- EMC testing
-- RF design and wireless telemtry 
-
-Currently I am a SWE intern on the RBC Amplify team for this summer. 
+My current main interests are system software (distributed systems, and lower level embedded systems, system level optimizations and autonomous vehicles). 
 
 LinkedIn: https://www.linkedin.com/in/averywlor/
 
