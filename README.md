@@ -4,7 +4,7 @@ I am a sophmore computer engineering student at the University of Toronto.
 
 I love all things software, always trying to learn something new or cool :)
 
-My current main interests are system software (distributed systems, and lower level embedded systems, system level optimizations and autonomous vehicles). 
+My main interest right now is embedded systems. 
 
 I like bouldering and grinding Stardew valley when I have free time. 
 
