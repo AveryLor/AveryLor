@@ -1,6 +1,6 @@
 ### Hi there I am Avery Lor! 👋
 
-I like bouldering and grinding Stardew valley when I have free time. 
+I like bouldering, anime, and grinding Stardew valley when I have free time. 
 
 ## Github Stats
 
