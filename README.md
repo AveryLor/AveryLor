@@ -4,6 +4,8 @@ I like bouldering, anime, and grinding Stardew Valley when I have free time.
 
 Main Interests: Embedded Systems, System Performance Optimization, Operating Systems, Compilers, FPGAs and ASICs 
 
+Industry Interests: ASIC and SoC Development, Robotics, Autonomous Vehicles
+
 ## Github Stats
 
 ![Views Badge](https://komarev.com/ghpvc/?username=AveryLor226&label=Profile%20views&color=0e75b6&style=flat) 
