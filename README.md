@@ -2,7 +2,7 @@
 
 I like bouldering, anime, and grinding Stardew Valley when I have free time. 
 
-Main Interests: Embedded Systems, System Performance Optimization, Operating Systems, Compilers, FPGAs and ASICs 
+Main Interests: Firmware, Low Latency Compute, Operating Systems, Compilers, ASICS, and Networks
 
 Industry Interests: ASIC and SoC Development, Robotics, Autonomous Vehicles
 
