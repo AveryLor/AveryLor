@@ -2,7 +2,7 @@
 
 I like bouldering, anime, and grinding Stardew Valley when I have free time. 
 
-Main Interests: Firmware, Low Latency Compute, Operating Systems, Compilers, ASICS, and Networks
+Technical Interests: Firmware, Low Latency Compute, Operating Systems, Compilers, ASICS, Networks and Electronics
 
 Industry Interests: ASIC and SoC Development, Robotics, Autonomous Vehicles
 
