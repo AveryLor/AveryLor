@@ -2,6 +2,8 @@
 
 I like bouldering, anime, and grinding Stardew Valley when I have free time. 
 
+My work mainly revolves around bringing cross functional system together through software & hardware!
+
 Technical Interests: Firmware, Low Latency Compute, Operating Systems, Compilers, ASICS, Networks and Electronics
 
 Industry Interests: ASIC and SoC Development, Robotics, Autonomous Vehicles
