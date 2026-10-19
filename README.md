@@ -6,8 +6,6 @@ My work mainly revolves around bringing cross functional system together through
 
 Technical Interests: Firmware, Low Latency Compute, Operating Systems, Compilers, ASICS, Networks and Electronics
 
-Industry Interests: ASIC and SoC Development, Robotics, Autonomous Vehicles
-
 ## Github Stats
 
 ![Views Badge](https://komarev.com/ghpvc/?username=AveryLor226&label=Profile%20views&color=0e75b6&style=flat) 
